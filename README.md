@@ -1,3 +1,5 @@
+Some edit by Noah
+
 # hackertarget
 
 I got so tired of filling and clicking on this damn site: https://hackertarget.com. So I wanted to pass a host/IP and have it spawn puppeteer and request all the scans.
